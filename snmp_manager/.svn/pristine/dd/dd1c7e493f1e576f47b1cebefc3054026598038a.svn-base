@@ -1,4 +1,0 @@
-schedule.server.info=0/10 * * * * ?
-schedule.server.stat.min=0 0/5 * * * ?
-schedule.server.stat.hour=0 0 * * * ?
-schedule.server.stat.day=0 0 0 * * ?
